@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "born-mc.aternos.me",
+    "ip": "born-mc.aternos.me:52633",
     "port": 52633,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
